@@ -5,14 +5,14 @@ Warning: the doc is being under development and updated regularly. Feel free to 
 <a name="table-of-contents"></a>
 ## Table of contents 
 
-[Table of contents](#table-of-contents)
-[Abstract](#abstract)
-[Introduction](#introduction)
-[Observations of the world around us](#observations)
-&nbsp;&nbsp;&nbsp;&nbsp;[Applications](#observations-applications)
-&nbsp;&nbsp;&nbsp;&nbsp;[Use cases](#observations-use-cases)
-[References](#references)
-[Licence](#licence)
+- [Table of contents](#table-of-contents)
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [Observations of the world around us](#observations)
+- &nbsp;&nbsp;&nbsp;&nbsp;[Applications](#observations-applications)
+- &nbsp;&nbsp;&nbsp;&nbsp;[Use cases](#observations-use-cases)
+- [References](#references)
+- [Licence](#licence)
 
 <a name="abstract"></a>
 ## Abstract
