@@ -20,7 +20,7 @@ Warning: the doc is being under development and updated regularly. Feel free to 
 <a name="abstract"></a>
 ## Abstract
 
-Proposed design of a computer system that will memorize everything for a person providing him with an individual memory search.
+The goal is to design database of personal knowledge. Lot of people – software developers, writers, actors, teachers, artists do the only thing – reproduce, processes and creates new information. From some perspective knowledge can be seen as graph, and the goal is to find approach, that will connect all the personal knowledge of individuals into one community knowledge.
 
 <a name="introduction"></a>
 ## Introduction
