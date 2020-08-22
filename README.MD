@@ -15,6 +15,8 @@ Warning: the doc is being under development and updated regularly. Feel free to 
 - [Observations of the world around us](#observations)
 - &nbsp;&nbsp;&nbsp;&nbsp;[Applications](#observations-applications)
 - &nbsp;&nbsp;&nbsp;&nbsp;[Use cases](#observations-use-cases)
+- [Implementation](#implementation)
+- &nbsp;&nbsp;&nbsp;&nbsp;[Stack](#implementation-software-stack)
 - [References](#references)
 - [Licence](#licence)
 
@@ -57,7 +59,7 @@ That's unnatural to use. In our heads we have a model of reality based on our ow
 
 Such a database with a fulltext search will significantly increase personal productivity. Compbining it with a possibility to share some of the data with other, maybe based on blockchain technology will significantly increase the progress.
 
-From a technical perspective we need to design a database that can be integreated with every service you need and data to that database must be added almost automatically, without overheads for a person. The data has to be stored locally, and there should be a way to exchange it with other people and entities. 
+From a technical perspective we need to design a database that can be integreated with every service you need and data to that database must be added almost automatically, without overheads for a person. The data has to be stored locally, and there should be a way to exchange it with other people and entities.
 
 <a name="specification"></a>
 ##Specification
@@ -113,6 +115,15 @@ From a technical perspective we need to design a database that can be integreate
 - Finding decision-makers
 - Scenario writing
 - Personal photo & video archive
+
+<a name="implementation"></a>
+## Implementation
+
+TODO: Describe software implementation
+
+<a name="implementation-software-stack"></a>
+### Stack
+
 
 <a name="references"></a>
 ## References
