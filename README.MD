@@ -1,15 +1,18 @@
 # Mathemathical approach to human intelligence augmentation
 
-Warning: the doc is being under development and is being updated regulary. Feel free to propose suggestions and leave comments via issues.
+Warning: the doc is being under development and updated regularly. Feel free to propose suggestions and leave comments via issues.
 
 <a name="table-of-contents"></a>
 ## Table of contents 
 
-1. [Table of contents](#table-of-contents)
-2. [Abstract](#abstract)
-3. [Introduction](#introduction)
-4. [References](#references)
-5. [Licence](#licence)
+[Table of contents](#table-of-contents)
+[Abstract](#abstract)
+[Introduction](#introduction)
+[Observations of the world around us](#observations)
+&nbsp;&nbsp;&nbsp;&nbsp;[Applications](#observations-applications)
+&nbsp;&nbsp;&nbsp;&nbsp;[Use cases](#observations-use-cases)
+[References](#references)
+[Licence](#licence)
 
 <a name="abstract"></a>
 ## Abstract
@@ -27,11 +30,37 @@ Our capabilities with computer interaction mostly limited not by our sensoric sy
 
 This document attemtps to formulate math model of human brain data processing pipline to design software that will help people to prosess large quantities of information.
 
+<a name="observations"></a>
+## Observations of the world around us
+
+
+<a name="observations-applications"></a>
+### Applications
+
+- Competitive analysis
+- Data mining
+- Linkage analysis
+- Knowledge network building
+- Zettelkasten method
+- Experiments analysis
+
+<a name="observations-use-cases"></a>
+### Use cases
+
+- Trello & Spreadsheet integration
+- Google disk files analysis
+- Google Disk access management
+- Analyzing competitors
+- Finding decision-makers
+- Scenario writing
+- Personal photo & video archive
+
 <a name="references"></a>
 ## References
 
 1. [Ontology](https://en.wikipedia.org/wiki/Ontology)
-2. Category theory
+2. [Category theory](https://en.wikipedia.org/wiki/Category_theory)
+3. [Homotopy type theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
 
 <a name="licence"></a>
 ## Licence
