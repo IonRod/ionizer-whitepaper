@@ -175,6 +175,14 @@ Data Views:
 3. [Homotopy type theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
 4. [Universal grammar](#https://en.wikipedia.org/wiki/Universal_grammar)
 
+### Graph query languages
+
+1. SparkQL
+2. Cypher by Neo4J
+3. RDF
+4. GraphQL
+5. Gremlin (query language)
+
 <a name="licence"></a>
 ## Licence
 
