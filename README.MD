@@ -130,6 +130,43 @@ TODO: Describe software implementation
 <a name="implementation-software-stack"></a>
 ### Stack
 
+Proposed software stack.
+
+Data Storage:
+
+- Docker
+- Neo4J
+- SparkQL
+
+Data Processing:
+
+- Python based backend?
+
+Backend:
+
+- Django
+- PostgreSQL
+
+FrontEnd:
+
+- ngraph
+- diagram.js
+
+Integrations:
+
+- browsers to save links and data from webpage
+- desktop to save files
+- internet services: Trello, Google Drive, Google Docs, Google Spreadsheet, Google Slides, Airtable, 
+- parsers
+- databases: MongoDB, MySQL, SQLite, PostgreSQL, MariaDB
+
+Data Views:
+
+- graphs & other visual elements on board
+- charts
+- tables & spreadsheets
+- block texts
+
 <a name="references"></a>
 ## References
 
