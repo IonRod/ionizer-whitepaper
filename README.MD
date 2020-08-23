@@ -10,6 +10,7 @@ Warning: the doc is being under development and updated regularly. Feel free to 
 - [Introduction](#introduction)
 - [Rationale](#rationale)
 - [Specification](#specification)
+- &nbsp;&nbsp;&nbsp;&nbsp;[Brief description](#specification-brief-description)
 - &nbsp;&nbsp;&nbsp;&nbsp;[Technical requirements](#specification-technical-requirements)
 - &nbsp;&nbsp;&nbsp;&nbsp;[Design requirements](#specification-design-requirements)
 - [Observations of the world around us](#observations)
@@ -63,6 +64,13 @@ From a technical perspective we need to design a database that can be integreate
 
 <a name="specification"></a>
 ## Specification
+
+<a name="specification-brief-description"></a>
+### Brief description
+
+The idea is to design local personal database that will index all the information you deal with. For example you read an article and save it to database (maybe with comments). After that you will be able to search over that information just like Google serches in the internet or in Google Drive.
+The system should help you to connect different information streams around you. For example you should be able to save you utility bills, checks and later to build charts showing your expences and maybe be find a correlation between them and your health.
+In other words system can be described as universal storage of different data that a person has full control on. The system must be designed based on "human-first" principle, meaning that the system adapts to humans not vis a versa. It means that system must be customizible, interface should be self-explanational, system must be tolerant to human errors.  
 
 <a name="specification-technical-requirements"></a>
 ### Technical requirements
