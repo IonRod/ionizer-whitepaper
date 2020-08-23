@@ -62,7 +62,7 @@ Such a database with a fulltext search will significantly increase personal prod
 From a technical perspective we need to design a database that can be integreated with every service you need and data to that database must be added almost automatically, without overheads for a person. The data has to be stored locally, and there should be a way to exchange it with other people and entities.
 
 <a name="specification"></a>
-##Specification
+## Specification
 
 <a name="specification-technical-requirements"></a>
 ### Technical requirements
@@ -90,10 +90,8 @@ From a technical perspective we need to design a database that can be integreate
 6. Dis6: Internal documentation must be implemented on the system
 7. Dis7: System must be responsible
 
-
 <a name="observations"></a>
 ## Observations of the world around us
-
 
 <a name="observations-applications"></a>
 ### Applications
@@ -124,13 +122,13 @@ TODO: Describe software implementation
 <a name="implementation-software-stack"></a>
 ### Stack
 
-
 <a name="references"></a>
 ## References
 
 1. [Ontology](https://en.wikipedia.org/wiki/Ontology)
 2. [Category theory](https://en.wikipedia.org/wiki/Category_theory)
 3. [Homotopy type theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
+4. [Universal grammar](#https://en.wikipedia.org/wiki/Universal_grammar)
 
 <a name="licence"></a>
 ## Licence
