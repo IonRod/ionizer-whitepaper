@@ -174,14 +174,17 @@ Data Views:
 2. [Category theory](https://en.wikipedia.org/wiki/Category_theory)
 3. [Homotopy type theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
 4. [Universal grammar](#https://en.wikipedia.org/wiki/Universal_grammar)
+5. [Semantic Web](#https://en.wikipedia.org/wiki/Semantic_Web)
 
 ### Graph query languages
 
+0. Linked Data Platform 1.0 by W3C
 1. SparkQL
 2. Cypher by Neo4J
 3. RDF
 4. GraphQL
 5. Gremlin (query language)
+6. Web Ontology Language (OWL) 
 
 <a name="licence"></a>
 ## Licence
